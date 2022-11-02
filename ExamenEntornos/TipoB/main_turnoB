@@ -1,0 +1,6 @@
+public static void main(String[] args) {
+        int c=9;
+        int a=8;
+        double d=Math.cosh(a/c)*Math.cos(a)+100*Math.random();
+        System.out.println("Fin del programa turno B");
+    }
